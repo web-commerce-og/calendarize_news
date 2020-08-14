@@ -1,6 +1,6 @@
 {
   "name": "lochmueller/calendarize-news",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "type": "typo3-cms-extension",
   "description": "Add Event options to the news extension",
   "autoload": {
@@ -39,7 +39,7 @@
     "typo3/cms-core": "~7.6.0||~8.1.0||dev-master",
     "lochmueller/autoloader": "~2.1.5",
     "lochmueller/calendarize": "~2.4.1",
-    "georgringer/news": "~5.2.0"
+    "georgringer/news": "^5.3"
   },
   "replace": {
     "calendarize_news": "self.version",
